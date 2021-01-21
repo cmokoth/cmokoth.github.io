@@ -1,0 +1,4 @@
+## seasonality
+
+This project was done in collaboration with another student, Ellie . This paper explored temperature and weather variations across the US by modelling a paper, <!---paper title---> All of the programming was done in SAS.
+<!---insert paper--->

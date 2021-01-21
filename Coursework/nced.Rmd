@@ -1,0 +1,5 @@
+## nced
+
+I have been working on and updating this project constantly since my Econometrics 1 class. It holds a dear place in my heart as it was my first time (and complete project) using R. Considerable parts of the original project were done in gretl but have been (and are being) updated to 100% R. This project also exists in a repository on my github page under cmokoth\$nced.
+
+<!--- insert project --->
