@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "Longitudinal Analysis of Iran"
+---
 ## iran
 
 This paper was written for my honors Intermediate Macroeconomics class. I think this paper is interesting, while domain specific, and was a challenging but fulfilling project.
