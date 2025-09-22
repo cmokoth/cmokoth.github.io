@@ -1,5 +1,7 @@
-Chistian Okoth's Website
+Christian Okoth's Website
 
-## Welcome
+### Welcome
 
 This space is where I host all of my public projects in a reader friendly format. This space houses all of my professional work, as well as school projects and blog posts about interesting things concerning R coding, economics, and tech ethics (and some random things in between). 
+
+##
